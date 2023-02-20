@@ -1,0 +1,15 @@
+ul {
+    border: solid lightgray 1px;
+    padding: 2px;
+    margin: 0px;
+    border-radius: 5px;
+}
+
+.categories {
+    width: 330px;
+    margin-left: 10px;
+}
+
+.search {
+    margin-bottom: 20px;
+}

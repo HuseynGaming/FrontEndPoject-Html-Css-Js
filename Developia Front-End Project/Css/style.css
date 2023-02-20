@@ -1,0 +1,22 @@
+#slide {
+    background-color: gray;
+}
+
+#control {
+    background-color: gray;
+    height: 800px;
+}
+
+#carouselimg {
+    height: 800px;
+    padding: 100px;
+}
+
+#txt {
+    color: gray;
+}
+
+.box {
+    width: 75%;
+    margin: auto;
+}
